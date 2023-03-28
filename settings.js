@@ -18,20 +18,20 @@ global.autoread = true // auto read pesan / message
 //global.available = true //status online (online)
 
 // Other
-global.botname = "PRATAMA-MD" //namabot kalian
-global.ownername= "M.A.F.PRATAMA×፝֟͜×" //nama kalian
+global.botname = "ARTABOTZ-MD" //namabot kalian
+global.ownername= "FAIZ" //nama kalian
 global.myweb ="https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g" //bebas asal jan hapus
-global.github = "https://github.com/AzzBott679" //bebas
+global.github = "https://github.com/panda560" //bebas
 global.email = "sdxshaders@gmaill.com" //bebas
 global.region = "Lampung" //bebas
-global.ownernomer = "6281273677810" // nomor wa kalian
-global.ownernomerr = "+6281273677810" //nmr wa kalian
+global.ownernomer = "6282181337337" // nomor wa kalian
+global.ownernomerr = "6282181337337" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://i.postimg.cc/L84bLpxL/menu-1.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6281273677810","84796102942","6281959293465","66986609139","6285975075847] //ganti agar fitur owner bisa di gunakan
-global.packname = '©PeatamaBotོ' //sticker wm ubah
+global.owner = ["6281273677810","6282181337337","6281959293465","855389162590","6285609467937"] //ganti agar fitur owner bisa di gunakan
+global.packname = '©ARTABOTZtོ' //sticker wm ubah
 global.author = 'Pratamaganz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
